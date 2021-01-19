@@ -8,6 +8,7 @@ To use this software you will need to install
 2. pyvirtualcam
 3. opencv-python
 4. Pillow
+5. numpy
 
 This code is only necessary to run from terminal by just running "python main.py" in terminal of the folder. 
 

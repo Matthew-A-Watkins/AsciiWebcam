@@ -10,18 +10,6 @@ import numba
 
 ASCII_CHARS = ["@", "#", "S", "%", "?", "*", "+", ";", ":", ",", "."]
 
-# clear terminal
-def clear(): 
-
-    # for windows 
-    if name == 'nt': 
-        _ = system('cls') 
-  
-    # for mac and linux(here, os.name is 'posix') 
-    else: 
-        _ = system('clear') 
-
-
 # rezise image with new width
 def rezise_image(image, new_width=150, ):
     width, height = image.size

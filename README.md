@@ -15,4 +15,4 @@ This code is only necessary to run from terminal by just running "python main.py
 # Disclaimer 
 this only works for windows currently as a software for Mac/linux would prove to be more difficult to include.
 
-This is just a prototype to a maybe future final design the current rendition comes with a little lag
+This is just a prototype to a maybe future final design the current endition comes with a little lag
